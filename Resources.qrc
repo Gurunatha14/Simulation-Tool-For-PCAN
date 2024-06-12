@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/Imgs">
+        <file>Icon/About.jpg</file>
+        <file>Icon/Check.png</file>
+        <file>Icon/Clear_ALL.jpg</file>
+        <file>Icon/copy_as_CSV.jpg</file>
+        <file>Icon/Cut.png</file>
+        <file>Icon/Delete.png</file>
+        <file>Icon/Device_Driver.jpg</file>
+        <file>Icon/Disconnect.jpg</file>
+        <file>Icon/Exit.png</file>
+        <file>Icon/File Format.jpg</file>
+        <file>Icon/Floating.png</file>
+        <file>Icon/Help.png</file>
+        <file>Icon/License_management.jpg</file>
+        <file>Icon/Linear_Buffer.jpg</file>
+        <file>Icon/pause.jpg</file>
+        <file>Icon/Receive_Transmit.png</file>
+        <file>Icon/Ring_Buffer.jpg</file>
+        <file>Icon/save.png</file>
+        <file>Icon/save_Trace.jpg</file>
+        <file>Icon/select_all.png</file>
+        <file>Icon/Send.png</file>
+        <file>Icon/Setting.jpg</file>
+        <file>Icon/StayOnTop.png</file>
+        <file>Icon/Trace.png</file>
+        <file>Icon/Open.png</file>
+        <file>Icon/Edit.png</file>
+        <file>Icon/New.png</file>
+        <file>Icon/Connect.png</file>
+        <file>Icon/Dis.png</file>
+        <file>Icon/Reset.png</file>
+        <file>Icon/paste.png</file>
+        <file>Icon/copy.png</file>
+        <file>Icon/start.png</file>
+        <file>Icon/pause.png</file>
+        <file>Icon/Stop.png</file>
+        <file>Icon/About.png</file>
+    </qresource>
+</RCC>
